@@ -1,0 +1,270 @@
+Name:		4v88_A4
+Sequence:	aaacuuucaacaacggaucucuugguucucgcaucgaugaagaacgcagcgaaaugcgauacguaaugugaauugcagaauuccgugaaucaucgaaucuuugaacgcacauugcgccccuugguauuccagggggcaugccuguuugagcgucauuu
+Secstruct:	..((.(((((((..(((((....)))))((((((((.((.......)).)))..)))))...((((((((..((.((((((((.(((...))).)))).))))))..))))))))(((((((((....))))))))).....))).)))).)).....
+Working_res:	A:1-158
+Input_res:	-
+Native:		4v88_RNA.pdb
+Description:	4v88_A4
+Extra_flags:	-
+
+Name:		1s03_A
+Sequence:	ggacgauggcgaaacugcaugaggcaauucaugcaagucccucgucc
+Secstruct:	((((((.((.((...((((((((....))))))))..))))))))))
+Working_res:	A:1-47
+Input_res:	-
+Native:		1s03_RNA.pdb
+Description:	1s03_A
+Extra_flags:	-
+
+Name:		1xjr_A
+Sequence:	ggaguucaccgaggccacgcggaguacgaucgaggguacagugaauu
+Secstruct:	..(((((((.(..(((.((((.....))..))..))).).)))))))
+Working_res:	A:1-47
+Input_res:	-
+Native:		1xjr_RNA.pdb
+Description:	1xjr_A
+Extra_flags:	-
+
+Name:		2qus_A
+Sequence:	gggagcccugucaccggaugugcuuuccggucugaugaguccgugaggacaaaacagggcucccgaauu
+Secstruct:	(((((((((((.((((((.......)))))).......((((....))))...))))))))))).....
+Working_res:	A:1-69
+Input_res:	-
+Native:		2qus_RNA.pdb
+Description:	2qus_A
+Extra_flags:	-
+
+Name:		2qwy_A
+Sequence:	gcgcggcgauuuaaccguauugcagucgcgugauaaauguagcuaaaaagga
+Secstruct:	((((((((((........)))))...))))).....................
+Working_res:	A:1-52
+Input_res:	-
+Native:		2qwy_RNA.pdb
+Description:	2qwy_A
+Extra_flags:	-
+
+Name:		3diq_A
+Sequence:	ggccgacggaggcgcgcccgagaugaguaggcugucccaucaggggaggaaucggggacggcugaaaggcgagggcgccgaagggugcagaguuccucccgcucugcaugccuggggguauggggaauacccauaccacugucacggaggucucuccguggagagccgucgguc
+Secstruct:	(((((((((....((((((..(.......(((((((((................)))))))))......)..))))))...((((((((((((.......))))))))).)))...((((((((.....)))))))).((.((((((((....))))))))..)))))))))))
+Working_res:	A:1-174
+Input_res:	-
+Native:		3diq_RNA.pdb
+Description:	3diq_A
+Extra_flags:	-
+
+Name:		3oww_A
+Sequence:	ggcucuggagagaaccguuuaaucggucgccgaaggagcaagcucugcggaaacgcagagugaaacucucaggcaaaaggacagaguc
+Secstruct:	(((((((....(.((((......)))))(((...((((...((((((((....))))))))....))))..))).......)))))))
+Working_res:	A:1-88
+Input_res:	-
+Native:		3oww_RNA.pdb
+Description:	3oww_A
+Extra_flags:	-
+
+Name:		3pdr_A
+Sequence:	gggcuucguuaggugaggcuccuguauggagauacgcugcugcccaaaaauguccaaagacgccaaugggucaacagaaaucaucgacauaaggugauuuuuaaugcagcuggaugcuuguccuaugccauacagugcuaaagcucuacgauugaagccca
+Secstruct:	((((((((....(((.(((((((((((((......(((((.(((((....((((....))))....)))))....((((((((((.......))))))))))...))))).((((....))))....)))))))).)....)))).)))...)))))))).
+Working_res:	A:15-175
+Input_res:	-
+Native:		3pdr_RNA.pdb
+Description:	3pdr_A
+Extra_flags:	-
+
+Name:		3q3z_A
+Sequence:	gcgcggaaacaaugaugaauggguuuaaauugggcacuugacucauuuugaguuaguagugcaaccgaccgugcu
+Secstruct:	((((((.(((............)))....((((((((((((((((...)))))))..)))))..)))))))))).
+Working_res:	A:7-82
+Input_res:	-
+Native:		3q3z_RNA.pdb
+Description:	3q3z_A
+Extra_flags:	-
+
+Name:		3r4f_A
+Sequence:	ggcguguauguggggaaacccugauugaguucagcccacauacuuuguugaugguugucaaucgcc
+Secstruct:	((((.(((((((((......((((......)))))))))))))...((((((....))))))))))
+Working_res:	A:1-66
+Input_res:	-
+Native:		3r4f_RNA.pdb
+Description:	3r4f_A
+Extra_flags:	-
+
+Name:		3slm_A
+Sequence:	ggccuuauacaggguagcauaaugggcuacugaccccgccuucaaaccuauuuggagacuauaagguc
+Secstruct:	(((((((((...((((((.......))))))........(((((((....)))))))..)))))))))
+Working_res:	A:22-89
+Input_res:	-
+Native:		3slm_RNA.pdb
+Description:	3slm_A
+Extra_flags:	-
+
+Name:		4c7o_E
+Sequence:	uguugguucucccgcaacgcggaagcgugugccgggauguagcuggca
+Secstruct:	(((((((((((((((.(((((....)))))).))))).).))))))))
+Working_res:	E:0-47
+Input_res:	-
+Native:		4c7o_RNA.pdb
+Description:	4c7o_E
+Extra_flags:	-
+
+Name:		4frn_A
+Sequence:	gggcuaaaagcauggugggaaagugacguguaauucguccacauuacuugauacgguuauacuccgaaugccaccuagcccaaaguagagcaaggagacuca
+Secstruct:	((((((.......(((((.(..(.((.(((((((.(((...((.....))..)))))))))))))...).)))))))))))......(((........))).
+Working_res:	A:1-102
+Input_res:	-
+Native:		4frn_RNA.pdb
+Description:	4frn_A
+Extra_flags:	-
+
+Name:		4jf2_A
+Sequence:	ggaaccgcgaaagcgguuccacgacgauacuuauuuccuuugaucgucguuauuacuggcuucggccacaaaggaga
+Secstruct:	((((((((....))))))))((((((((.(...........)))))))))......((((....)))).........
+Working_res:	A:1-77
+Input_res:	-
+Native:		4jf2_RNA.pdb
+Description:	4jf2_A
+Extra_flags:	-
+
+Name:		4lck_C
+Sequence:	gggugcgaugagaagaagaguauuaaggauuuacuaugauuagcgacucuaggauagugaaagcuagaggauaguaaccuuaagaaggcacuucgagcaccc
+Secstruct:	((((((.....((((.......((((((..(((((((..(((((....(((...))).....)))))...))))))))))))).......))))..))))))
+Working_res:	C:1-102
+Input_res:	-
+Native:		4lck_RNA.pdb
+Description:	4lck_C
+Extra_flags:	-
+
+Name:		4mgn_A
+Sequence:	ggaaucaauaguaguuaacccucucuuccgaagcgagccgggggcggugggagcccggugaagacgguuaaugaaacggcaguucc
+Secstruct:	(((((........(((((((...(((((........((((.(..(.....)..).))))))))).))))))).........)))))
+Working_res:	A:10-95
+Input_res:	-
+Native:		4mgn_RNA.pdb
+Description:	4mgn_A
+Extra_flags:	-
+
+Name:		4oog_D
+Sequence:	caugucaugucaugaguccauggcauggcauggc
+Secstruct:	((((((((((((((....))))))))))))))..
+Working_res:	D:1-34
+Input_res:	-
+Native:		4oog_RNA.pdb
+Description:	4oog_D
+Extra_flags:	-
+
+Name:		4pmi_A
+Sequence:	gggaguauaugggcgcacuucggugacgguacaggcuccu
+Secstruct:	((((((.....(.(((((....))).)).)....))))))
+Working_res:	A:1-40
+Input_res:	-
+Native:		4pmi_RNA.pdb
+Description:	4pmi_A
+Extra_flags:	-
+
+Name:		4rmo_B
+Sequence:	aaguuuaccacugaccgauaugugguauauaaauggucggguuga
+Secstruct:	..........(((((((.(((((...)))))..))))))).....
+Working_res:	B:1-45
+Input_res:	-
+Native:		4rmo_RNA.pdb
+Description:	4rmo_B
+Extra_flags:	-
+
+Name:		5bjp_E
+Sequence:	ggcgcgaggaaggaggucugaggaggucacugcgcc
+Secstruct:	((((((..((......(((....)))))..))))))
+Working_res:	E:1-36
+Input_res:	-
+Native:		5bjp_RNA.pdb
+Description:	5bjp_E
+Extra_flags:	-
+
+Name:		5lyu_A
+Sequence:	ggggaucugucaccccauugaucgccuucgggcugaucuggcuggcuaggcggguccc
+Secstruct:	.((((((((((.(((((..(((((((....))).)))))))..))...))))))))))
+Working_res:	A:1-58
+Input_res:	-
+Native:		5lyu_RNA.pdb
+Description:	5lyu_A
+Extra_flags:	-
+
+Name:		5vof_A
+Sequence:	gagagccccagcgagauaauacuuggccccgcucuu
+Secstruct:	((((((.....((((......)))).....))))))
+Working_res:	A:1-36
+Input_res:	-
+Native:		5vof_RNA.pdb
+Description:	5vof_A
+Extra_flags:	-
+
+Name:		6db9_R
+Sequence:	ggaugcgccuugaaaagccugcgaaacacgcagcuggugaaugacagcuauggcgcaucc
+Secstruct:	(((((((((..........((((.....))))((((........))))...)))))))))
+Working_res:	R:1-60
+Input_res:	-
+Native:		6db9_RNA.pdb
+Description:	6db9_R
+Extra_flags:	-
+
+Name:		6iv8_D
+Sequence:	cacuggugcaaauuugcacuagucuaaaacuccucgauuacauacacaaagca
+Secstruct:	.(((((((((....)))))))))..............................
+Working_res:	D:1-53
+Input_res:	-
+Native:		6iv8_RNA.pdb
+Description:	6iv8_D
+Extra_flags:	-
+
+Name:		6jq5_A
+Sequence:	uuacugugagaaucaguaacaaacauguggggcuuauaucuaaucgaaagauuaguauuagugcagacguuaaaaccauguc
+Secstruct:	((((((.......))))))..........(.(((.(((.((((((....))))))))).))).)..................
+Working_res:	A:1-82
+Input_res:	-
+Native:		6jq5_RNA.pdb
+Description:	6jq5_A
+Extra_flags:	-
+
+Name:		6mwn_A
+Sequence:	ggcaaacaucauuuggccuuaaaugggauucugugagaggggaucccuccauugacagcuggacuguucuuuggggccuuaugugguguuug
+Secstruct:	..((((((((((..(((((((((.((((((((.......)))))))).......((((.....))))..)))))))))....))))))))))
+Working_res:	A:593-684
+Input_res:	-
+Native:		6mwn_RNA.pdb
+Description:	6mwn_A
+Extra_flags:	-
+
+Name:		6n2v_A
+Sequence:	ggcuuggggaguagccugcuuucggaaacgaaagcgccuguaucaacauacucggcgaaagccguggugcaggaccgaaaggucuggcgagaccaggcc
+Secstruct:	(((((((......(((((((((((....)))))))).((((((((.......((((....))))))))))))((((....)))).)))....)))))))
+Working_res:	A:1-99
+Input_res:	-
+Native:		6n2v_RNA.pdb
+Description:	6n2v_A
+Extra_flags:	-
+
+Name:		6u8k_A
+Sequence:	gggucucgcggaaccggugaguacaccggaauccaggaaacuggauuugggcgugcccccgcgagacc
+Secstruct:	.((((((((((..((((((....))))))(((((((....))))))).(((....)))))))))))))
+Working_res:	A:1-68
+Input_res:	-
+Native:		6u8k_RNA.pdb
+Description:	6u8k_A
+Extra_flags:	-
+
+Name:		6vmy_A
+Sequence:	ggucaaauaggugccgguccgugaacaacagccggcuuaaaagggaaaccgguaaaagccggugcggucccgccacuguaauuggccaagcgccaagagccaggauaccugccuguuugaucagcacgaauucugcgaggacagauga
+Secstruct:	((((((((((((((((((..((.....)).))))))......((((.((((((....))))))....))))......((..(((((.....)))))..)).(((...))))))))))))))).........((((......))))...
+Working_res:	A:1-148
+Input_res:	-
+Native:		6vmy_RNA.pdb
+Description:	6vmy_A
+Extra_flags:	-
+
+Name:		7jju_A
+Sequence:	ggaacuagcucagcauacacgaguugcaagcaugggaaguucaagccucgu
+Secstruct:	.(((((..((((((...............)).)))).))))).........
+Working_res:	A:1-51
+Input_res:	-
+Native:		7jju_RNA.pdb
+Description:	7jju_A
+Extra_flags:	-
+
